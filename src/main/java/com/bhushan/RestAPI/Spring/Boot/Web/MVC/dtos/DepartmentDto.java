@@ -1,5 +1,6 @@
 package com.bhushan.RestAPI.Spring.Boot.Web.MVC.dtos;
 
+import jakarta.validation.constraints.NotBlank;
 import lombok.*;
 
 @Getter
